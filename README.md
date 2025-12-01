@@ -5,7 +5,7 @@ This work aims to applying the concept of _Functions, Data Structures, and File 
 - The Solar mass
   -  $M_{Sun}=\frac{4\pi^{2}(1 AU)^{3}}{G (1 yr)^{2}}$
 - The velocity of an atom
-  - $v(x)=\sqrt{v_{0}^{2}+\frac{2F_{0}}{m}(cos\frac{x}{n}-1}$
+  - $v(x)=\sqrt{v_{0}^{2}+\frac{2F_{0}}{m}(cos\frac{x}{n}-1)}$
 
 ## 1. Function
 ## P4.1 - The solar mass
