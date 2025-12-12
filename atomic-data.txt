@@ -1,0 +1,4 @@
+elements,	m-cell,	volume-cell (cm^3)
+Al,		1.792e-22,	6.62E-23
+Cu,		4.221e-22,	6.75E-23
+Pb,		1.376e-21,	1.32E-22
